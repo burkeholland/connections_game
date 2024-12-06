@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "gameId": 1,
+      "groups": [
+        {
+          "title": "Names That Sound Like Two Letters",
+          "words": ["CECE", "EDIE", "EMMY", "KATIE"],
+          "color": "purple"
+        },
+        {
+          "title": "Sopranos",
+          "words": ["CARMELA", "JUNIOR", "MEADOW", "TONY"],
+          "color": "yellow"
+        },
+        {
+          "title": "Familial Nicknames",
+          "words": ["CUZ", "GRAMMY", "MUMMY", "POP"],
+          "color": "green"
+        },
+        {
+          "title": "“Sesame Street” Characters",
+          "words": ["COOKIE", "COUNT", "OSCAR", "SNUFFY"],
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}
